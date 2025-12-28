@@ -1,0 +1,354 @@
+# Guitar Hero Band Controller
+## Open Hardware and Software License
+
+**Version 1.0 - December 2025**
+
+---
+
+> *"The rhythm never dies. Neither does the community that keeps it alive."*
+
+---
+
+## Why This License Exists
+
+The Guitar Hero community is slowly being forgotten. Controllers break, replacements are expensive or impossible to find, and corporations have moved on. But we haven't.
+
+This project exists because **the community deserves better**. We built this together, for everyone who still believes in plastic guitars and the joy of hitting that 100% FC.
+
+**This license protects that spirit.**
+
+Want to build one for yourself? Go ahead.  
+Want to sell a few handmade units? Cool, just give credit.  
+Want to mass produce and make money? **Then give back first.**
+
+*No one profits from the community's work without contributing to it.*
+
+---
+
+## Quick Summary
+
+| Use Case | Allowed? | Requirements |
+|----------|----------|--------------|
+| Personal use | Yes | None |
+| Educational / Research | Yes | None |
+| Building for yourself or friends | Yes | None |
+| Selling handmade units | Yes | Give credit |
+| **Mass production for profit** | Yes | **Release everything you build** |
+
+---
+
+## The Golden Rule
+
+> **"If you benefit from open source, you contribute to open source."**
+
+This project is 100% open source. The code, the models, the documentation—everything. We share it freely because we believe knowledge should be free.
+
+But if you want to turn this into a business, you play by our rules:
+
+**You release everything. No exceptions.**
+
+---
+
+## Definitions
+
+- **Project**: All source code, schematics, 3D models, documentation, and files related to Guitar Hero Band Controller (guitars, bass, drums, dongles, microphones, and accessories).
+- **Mass Production**: Manufacturing with intent to sell or distribute commercially at scale.
+- **Derivative Work**: Any modification, adaptation, improvement, or product based on this project.
+
+---
+
+## Free Use (No Strings Attached)
+
+You may freely:
+
+- Use the project for personal purposes
+- Modify and adapt the design to your needs
+- Share the project with others
+- Use for educational or research purposes
+- Manufacture units for personal use or gifts
+- Sell individual handmade units, as long as you credit the original project
+
+*The community shares. You can too.*
+
+---
+
+## Requirements for Commercial Mass Production
+
+> *"Want to make money? Help us first."*
+
+If you produce units for commercial sale or distribution at scale, you **MUST** comply with **ALL** of the following:
+
+### 1. Release Your Complete Source Code
+
+Publish freely and publicly:
+
+- Complete source code for all controllers (guitar, bass, drums, etc.)
+- Dongle/hub source code and any firmware
+- Any configuration software or related utilities
+- Build scripts and required dependencies
+
+### 2. Release Your Models and Designs
+
+Publish freely and publicly:
+
+- 3D models of all instruments (editable formats: .STEP, .F3D, .BLEND, etc.)
+- 3D models of dongles, enclosures, and accessories
+- PCB files (schematics, Gerbers, BOM)
+- Any molds, templates, or manufacturing tools you created
+
+### 3. Provide Complete Documentation
+
+Publish:
+
+- Detailed assembly instructions
+- Bill of Materials (BOM) with specifications
+- Calibration and configuration guides
+- Documentation of any improvements or modifications
+
+### 4. Give Credit Where Credit Is Due
+
+Include:
+
+- Visible credit to "Guitar Hero Band Controller" project
+- Link to the original repository
+- Statement that your product is based on this open-source project
+
+### 5. Keep It Open (Copyleft)
+
+- All derivative works must use this same license
+- You cannot add restrictions that lock others out
+
+### 6. Notify the Community
+
+- Let us know before you start commercial production
+- Contributing improvements back is encouraged
+
+---
+
+## What You Cannot Do
+
+> *"Don't be that guy."*
+
+It is **PROHIBITED** to:
+
+- Mass produce without releasing your work
+- Claim the original design as your own creation
+- Patent any part of the project or derivatives
+- Add DRM or restrictions that limit modification
+- Use our name to suggest we endorse your product
+
+---
+
+## Disclaimer
+
+This project is provided "AS IS", without warranty of any kind. The authors are not liable for any damages, injuries, or losses arising from use of this project.
+
+*Build at your own risk. Rock at your own reward.*
+
+---
+
+## The Spirit of This License
+
+This isn't about stopping anyone from making money. It's about **fairness**.
+
+The Guitar Hero and Rock Band community deserves to enjoy these titles—and similar rhythm games—the way they were meant to be played: with proper controllers. Original hardware is breaking, replacements are impossible to find, and no one is making new ones.
+
+This project exists to change that. And if someone wants to profit from the solution we're building together, they should contribute back. It's that simple.
+
+> **"Take freely. Give back generously."**
+
+---
+
+## Base License
+
+Inspired by:
+- CERN Open Hardware Licence Version 2 - Strongly Reciprocal (CERN-OHL-S-2.0)
+- GNU General Public License v3.0
+
+For open hardware licensing: https://ohwr.org/cernohl
+
+---
+
+**Copyright (c) 2025 - Guitar Hero Band Controller Project**
+
+---
+---
+---
+
+# Guitar Hero Band Controller
+## Licencia de Hardware y Software Abierto
+
+**Versión 1.0 - Diciembre 2025**
+
+---
+
+> *"El ritmo nunca muere. Tampoco la comunidad que lo mantiene vivo."*
+
+---
+
+## Por Qué Existe Esta Licencia
+
+La comunidad de Guitar Hero está siendo olvidada poco a poco. Los controladores se rompen, los repuestos son caros o imposibles de encontrar, y las corporaciones ya pasaron página. Pero nosotros no.
+
+Este proyecto existe porque **la comunidad merece algo mejor**. Construimos esto juntos, para todos los que aún creen en las guitarras de plástico y la alegría de lograr ese 100% FC.
+
+**Esta licencia protege ese espíritu.**
+
+¿Quieres construir uno para ti? Adelante.  
+¿Quieres vender algunas unidades hechas a mano? Genial, solo da crédito.  
+¿Quieres producir en masa y ganar dinero? **Entonces primero devuelve algo.**
+
+*Nadie lucra con el trabajo de la comunidad sin contribuir a ella.*
+
+---
+
+## Resumen Rápido
+
+| Caso de Uso | ¿Permitido? | Requisitos |
+|-------------|-------------|------------|
+| Uso personal | Sí | Ninguno |
+| Educativo / Investigación | Sí | Ninguno |
+| Construir para ti o amigos | Sí | Ninguno |
+| Vender unidades artesanales | Sí | Dar crédito |
+| **Producción en masa con fines de lucro** | Sí | **Liberar todo lo que construyas** |
+
+---
+
+## La Regla de Oro
+
+> **"Si te beneficias del código abierto, contribuyes al código abierto."**
+
+Este proyecto es 100% open source. El código, los modelos, la documentación—todo. Lo compartimos libremente porque creemos que el conocimiento debe ser libre.
+
+Pero si quieres convertir esto en un negocio, juegas con nuestras reglas:
+
+**Liberas todo. Sin excepciones.**
+
+---
+
+## Definiciones
+
+- **Proyecto**: Todo el código fuente, esquemáticos, modelos 3D, documentación y archivos relacionados con Guitar Hero Band Controller (guitarras, bajos, baterías, dongles, micrófonos y accesorios).
+- **Producción en Masa**: Fabricación con intención de vender o distribuir comercialmente a escala.
+- **Trabajo Derivado**: Cualquier modificación, adaptación, mejora o producto basado en este proyecto.
+
+---
+
+## Uso Libre (Sin Condiciones)
+
+Puedes libremente:
+
+- Usar el proyecto para fines personales
+- Modificar y adaptar el diseño a tus necesidades
+- Compartir el proyecto con otros
+- Usar para fines educativos o de investigación
+- Fabricar unidades para uso personal o regalos
+- Vender unidades individuales hechas a mano, siempre que des crédito al proyecto original
+
+*La comunidad comparte. Tú también puedes.*
+
+---
+
+## Requisitos para Producción Comercial en Masa
+
+> *"¿Quieres ganar dinero? Ayúdanos primero."*
+
+Si produces unidades para venta o distribución comercial a escala, **DEBES** cumplir con **TODOS** los siguientes requisitos:
+
+### 1. Libera Tu Código Fuente Completo
+
+Publica de forma gratuita y pública:
+
+- Código fuente completo de todos los controladores (guitarra, bajo, batería, etc.)
+- Código fuente del dongle/hub y cualquier firmware
+- Cualquier software de configuración o utilidades relacionadas
+- Scripts de compilación y dependencias necesarias
+
+### 2. Libera Tus Modelos y Diseños
+
+Publica de forma gratuita y pública:
+
+- Modelos 3D de todos los instrumentos (formatos editables: .STEP, .F3D, .BLEND, etc.)
+- Modelos 3D de dongles, carcasas y accesorios
+- Archivos de PCB (esquemáticos, Gerbers, BOM)
+- Cualquier molde, plantilla o herramienta de fabricación que hayas creado
+
+### 3. Proporciona Documentación Completa
+
+Publica:
+
+- Instrucciones de ensamblaje detalladas
+- Lista de materiales (BOM) con especificaciones
+- Guías de calibración y configuración
+- Documentación de cualquier mejora o modificación
+
+### 4. Da Crédito a Quien lo Merece
+
+Incluye:
+
+- Crédito visible al proyecto "Guitar Hero Band Controller"
+- Enlace al repositorio original
+- Mención de que tu producto está basado en este proyecto open-source
+
+### 5. Mantenlo Abierto (Copyleft)
+
+- Todos los trabajos derivados deben usar esta misma licencia
+- No puedes agregar restricciones que excluyan a otros
+
+### 6. Notifica a la Comunidad
+
+- Avísanos antes de iniciar producción comercial
+- Se alienta contribuir mejoras de vuelta
+
+---
+
+## Lo Que No Puedes Hacer
+
+> *"No seas ese tipo de persona."*
+
+Está **PROHIBIDO**:
+
+- Producir en masa sin liberar tu trabajo
+- Reclamar el diseño original como tu propia creación
+- Patentar cualquier parte del proyecto o derivados
+- Agregar DRM o restricciones que limiten la modificación
+- Usar nuestro nombre para sugerir que respaldamos tu producto
+
+---
+
+## Exención de Responsabilidad
+
+Este proyecto se proporciona "TAL CUAL", sin garantías de ningún tipo. Los autores no son responsables de daños, lesiones o pérdidas derivadas del uso de este proyecto.
+
+*Construye bajo tu propio riesgo. Rockea bajo tu propia recompensa.*
+
+---
+
+## El Espíritu de Esta Licencia
+
+Esto no se trata de impedir que alguien gane dinero. Se trata de **justicia**.
+
+La comunidad de Guitar Hero y Rock Band merece disfrutar estos títulos—y juegos de ritmo similares—como fueron diseñados para jugarse: con los controladores adecuados. El hardware original se está rompiendo, los repuestos son imposibles de encontrar, y nadie está fabricando nuevos.
+
+Este proyecto existe para cambiar eso. Y si alguien quiere lucrar con la solución que estamos construyendo juntos, debería contribuir de vuelta. Así de simple.
+
+> **"Toma libremente. Devuelve generosamente."**
+
+---
+
+## Licencia Base
+
+Inspirada en:
+- CERN Open Hardware Licence Version 2 - Strongly Reciprocal (CERN-OHL-S-2.0)
+- GNU General Public License v3.0
+
+Para licencias de hardware abierto: https://ohwr.org/cernohl
+
+---
+
+**Copyright (c) 2025 - Guitar Hero Band Controller Project**
+
+---
+
+> *"We are the community. We keep the legacy alive."*  
+> *"Somos la comunidad. Mantenemos el legado vivo."*
