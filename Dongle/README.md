@@ -55,7 +55,7 @@ El cerebro maestro que coordina hasta 4 instrumentos y los conecta al PC como un
 
 ## Diagrama de Conexiones
 
-![Diagrama del Dongle](./resource/diagram/dongle/dongleDiagram.png)
+![Diagrama del Dongle](../resource/diagram/dongle/dongleDiagram.png)
 
 ### Mapa de Pines Completo
 
@@ -77,7 +77,7 @@ El cerebro maestro que coordina hasta 4 instrumentos y los conecta al PC como un
 
 ### Diagrama de Conexion NRF24L01
 
-![Diagrama NRF24](./resource/diagram/dongle/nrf24Diagram.png)
+![Diagrama NRF24](../resource/diagram/dongle/nrf24Diagram.png)
 
 ```
 NRF24L01 + Adaptador          Raspberry Pi Pico
@@ -100,7 +100,7 @@ NRF24L01 + Adaptador          Raspberry Pi Pico
 
 ### Diagrama de Conexion OLED
 
-![Diagrama OLED](./resource/diagram/dongle/oledDiagram.png)
+![Diagrama OLED](../resource/diagram/dongle/oledDiagram.png)
 
 ```
 OLED SSD1306 (I2C)            Raspberry Pi Pico
