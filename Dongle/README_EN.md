@@ -55,7 +55,7 @@ The master brain that coordinates up to 4 instruments and connects them to the P
 
 ## Wiring Diagram
 
-![Dongle Diagram](resource/diagram/dongle/dongleDiagram.png)
+![Dongle Diagram](../resource/diagram/dongle/dongleDiagram.png)
 
 ### Complete Pin Map
 
@@ -77,7 +77,7 @@ The master brain that coordinates up to 4 instruments and connects them to the P
 
 ### NRF24L01 Connection Diagram
 
-![NRF24 Diagram](resource/diagram/dongle/nrf24Diagram.png)
+![NRF24 Diagram](../resource/diagram/dongle/nrf24Diagram.png)
 
 ```
 NRF24L01 + Adapter            Raspberry Pi Pico
@@ -100,7 +100,7 @@ NRF24L01 + Adapter            Raspberry Pi Pico
 
 ### OLED Connection Diagram
 
-![OLED Diagram](resource/diagram/dongle/oledDiagram.png)
+![OLED Diagram](../resource/diagram/dongle/oledDiagram.png)
 
 ```
 OLED SSD1306 (I2C)            Raspberry Pi Pico
